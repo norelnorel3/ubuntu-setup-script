@@ -8,7 +8,7 @@ Follow these instructions to clone the repository and run the setup script.
 
 ### Clone the Repository
 
-    git clone https://github.com/norel-milihov/norel-setup-script.git
+    git clone https://github.com/norelnorel3/ubuntu-setup-script.git
 
 ### Make the script executable
 Navigate to the script directory and make the script executable:
