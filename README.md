@@ -11,8 +11,9 @@ Follow these instructions to clone the repository and run the setup script.
     git clone https://github.com/norelnorel3/ubuntu-setup-script.git
 
 ### Make the script executable
-Navigate to the script directory and make the script executable:
+
     chmod +x ubuntu-setup-script/norel-setup-script.sh
+
 
 ### Run the Script
 Execute the script with superuser privileges:
