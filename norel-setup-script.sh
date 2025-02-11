@@ -4,12 +4,17 @@
 # Development Environment Setup Script
 # =================================================================
 # Author: Norel Milihov
+# Version: 1.0
+# Tested on: Ubuntu 22.04 LTS
+# Warning: This script has only been tested on Ubuntu 22.04.
+#         Using it on other versions or distributions may lead to
+#         unexpected results.
+# 
 # Description: This script automates the setup of a development
-#              environment on Ubuntu/Debian-based systems.
-#              It includes installation of common development tools,
-#              Docker, Kubernetes tools, and various configurations.
+#              environment on Ubuntu systems. It includes installation
+#              of common development tools, Docker, Kubernetes tools,
+#              and various configurations.
 # =================================================================
-
 # Variables
 TARGET_USER="${SUDO_USER:-$USER}"
 TARGET_USER_HOME="/home/$TARGET_USER"
